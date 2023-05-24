@@ -1,7 +1,15 @@
 # Shoe Barn - React and Node/Express App
 
-The Shoe Barn application is a web-based platform for viewing and purchasing shoes. This app is built using React and Node/Express, and displays a list of available shoes with their name, short description and price. Upon clicking a shoe, users can view its details page.
+<div style="display: flex;">
+ <img width="1439" alt="Screenshot 2023-05-24 at 4 02 04 PM" src="https://github.com/thafsi-pv/Shoe-Barn/assets/22377348/75570eb9-249f-457f-9ec0-f5f6dd83b879"><img width="1438" alt="Screenshot 2023-05-24 at 4 03 30 PM" src="https://github.com/thafsi-pv/Shoe-Barn/assets/22377348/db09286f-1b50-4ab8-9129-d8f1a162cb74">
+  </div>
 
+
+
+
+
+
+The Shoe Barn application is a web-based platform for viewing and purchasing shoes. This app is built using React and Node/Express, and displays a list of available shoes with their name, short description and price. Upon clicking a shoe, users can view its details page.
 
 ## Features
 
