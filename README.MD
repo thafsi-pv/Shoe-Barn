@@ -1,6 +1,6 @@
 # Shoe Barn - React and Node/Express App
 
-<div style="display: flex; margin-right:5px">
+<div style="display: flex; gap:5px">
  <img width="500" alt="Screenshot 2023-05-24 at 4 02 04 PM" src="https://github.com/thafsi-pv/Shoe-Barn/assets/22377348/75570eb9-249f-457f-9ec0-f5f6dd83b879"><img width="500" alt="Screenshot 2023-05-24 at 4 03 30 PM" src="https://github.com/thafsi-pv/Shoe-Barn/assets/22377348/db09286f-1b50-4ab8-9129-d8f1a162cb74">
   </div>
 
